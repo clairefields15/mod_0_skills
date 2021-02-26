@@ -1,0 +1,13 @@
+//class: Security
+
+//class attributes:
+numberOfMetalDetectors (integer)
+hasBombDogs (boolean)
+itemsNotAllowed (array)
+supervisorName (string)
+
+//methods:
+dogClockIn (changes hasBombDogs attribute to TRUE)
+updateItemList (updates the itemsNotAllowed attribute)
+changeSupervisorName (updates the supervisorName attribute)
+repairNeeded (subtracts 1 from the numberOfMetalDetectors attribute)
