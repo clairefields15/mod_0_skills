@@ -1,0 +1,13 @@
+//class: CoffeeShop
+
+//class attributes:
+name (string)
+isOpen (boolean)
+costOfLatte (float)
+pastrySelection (array)
+
+//methods:
+changePrice: (updates the costOfLatte attribute)
+stockCase: (updates the pastrySelection attribute)
+startDay: (updates isOpen attribute to true)
+endDay: (updates isOpen attribute to false)
