@@ -1,0 +1,9 @@
+var movie = 'The Avengers'
+var isEntertaining = 'TRUE'
+movie = 'The Notebook'
+var num4 = 23
+var num6 = 6
+var product = (num4 * num6)
+var favoriteFoods = ['Cheese', 'Popcorn', 'Bacon']
+favoriteFoods.splice(0,1)
+var char = movie.length
