@@ -1,0 +1,14 @@
+//class: CoffeeShop
+//instance: Starbucks
+
+//class attributes:
+name = 'Starbucks'
+isOpen = 'true'
+costOfLatte = '4.57'
+pastrySelection = ['Cheese Scone', 'Blueberry Muffin', 'Egg Sandwich']
+
+//methods:
+changePrice: costOfLatte = '4.99'
+stockCase: pastrySelection = ['Blueberry Muffin', 'Egg Sandwich', 'Cinnamon Roll', 'Egg Bite']
+startDay: isOpen = 'true'
+endDay: isOpen = 'false'
