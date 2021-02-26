@@ -1,0 +1,13 @@
+//class instance: southDIA
+
+//class attributes:
+numberOfMetalDetectors = 4
+hasBombDogs = 'false'
+itemsNotAllowed = ['explosives', 'flammable items', 'liquids over 3.4 oz']
+supervisorName = 'Bob Jones'
+
+//methods:
+dogClockIn: hasBombDogs = 'true'
+updateItemList: itemsNotAllowed = ['explosives', 'flammable items', 'liquids over 3.4 oz', 'knives']
+changeSupervisorName: supervisorName = 'Katy Perry'
+repairNeeded: numberOfMetalDetectors = 3
